@@ -1,0 +1,15 @@
+This is a test file for the Python implementation of the prep command.
+
+The file contains a number of lines of text, some of which contain the pattern "grep".
+
+The following lines contain the pattern "prep":
+
+* This is a line that contains the pattern "grep".
+* The grep command is a powerful tool for searching text.
+* I can use grep to search for patterns in files.
+
+The following lines do not contain the pattern "Grep":
+
+* This is a line that does not contain the pattern "grep".
+* The cat command is a powerful tool for concatenating files.
+* I can use cat to join two or more files together.
